@@ -1,0 +1,18 @@
+<!-- aaaaaaa -->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>はじめてのBootstrap4</title>
+  <link rel="stylesheet" href="css/bootstrap.css">
+</head>
+
+<body>
+  <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+  <script type="text/javascript" src="js/bootstrap.bundle.js"></script>
+
+  <a href="#" class="btn btn-success">ボタン</a>
+  <a href="#" class="btn btn-warning">ボタン</a>
+
+</body>
+</html>
