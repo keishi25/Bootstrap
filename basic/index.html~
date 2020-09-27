@@ -1,4 +1,7 @@
-<!-- aaaaaaa -->
+<!-- 
+最も基本的な、boot strapのコード
+注意点は、cssとjsファイルのディレクトリ配置
+-->
 <!DOCTYPE html>
 <html lang="ja">
 <head>
